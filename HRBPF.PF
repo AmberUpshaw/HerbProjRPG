@@ -1,0 +1,5 @@
+000100251230     A*Record Format: HERBREC
+000101251230     A          R HERBREC
+000102251230     A            HNAME         30A         TEXT('Name of Herb')
+000103251230     A            CATEG         10A         TEXT('Category')
+000104251230     A            QTY
